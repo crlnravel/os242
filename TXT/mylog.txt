@@ -1,6 +1,17 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+===== W01 =====
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 100 L01 Attended class on Monday
+ZCZC W01 100 L02 Attended class on Wednesday
+ZCZC W01 100 L03 Reading Assignment The ATM Way: GSGS and Read 
+ZCZC W01 20 L05 QUIZ
+ZCZC W01 200 L11 Weekly Assignments
+ZCZC W01 30 L09 Pop Quiz 1
+ZCZC W01 10 L41 Update mylog.txt
+
+===== W00 =====
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
