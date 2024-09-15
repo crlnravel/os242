@@ -1,17 +1,25 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-===== W01 =====
+ZCZC W02 100 L02 Attended class on Monday
+ZCZC W02 10 L32 Watching Cyber Security related video (Video in my links.md)
+ZCZC W02 35 L25 Trying simple dummy project with C (it's fun)
+ZCZC W02 100 L02 Attended class on Wednesday
+ZCZC W02 100 L06 Reading Assignment Silberschatz et. al.: Operating System Concepts chap 16, 17
+ZCZC W02 30 L05 QUIZ
+ZCZC W02 200 L09 Weekly Assignments
+ZCZC W02 50 L09 Fixing VIM bug (It is solved)
+ZCZC W02 10 L01 Ask for help in General Scele Forum
+ZCZC W02 30 L32 Watching Bash Scripting tutorial (Video in my links.md)
+ZCZC W02 55 L25 Making simple example project with C
 ZCZC W01 20 L00 General, etc.
-ZCZC W01 100 L01 Attended class on Monday
+ZCZC W01 100 L02 Attended class on Monday
 ZCZC W01 100 L02 Attended class on Wednesday
 ZCZC W01 100 L03 Reading Assignment The ATM Way: GSGS and Read 
 ZCZC W01 20 L05 QUIZ
-ZCZC W01 200 L11 Weekly Assignments
+ZCZC W01 200 L09 Weekly Assignments
 ZCZC W01 30 L09 Pop Quiz 1
 ZCZC W01 10 L41 Update mylog.txt
-
-===== W00 =====
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
