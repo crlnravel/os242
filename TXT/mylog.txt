@@ -36,3 +36,11 @@ ZCZC W03 20 L64 Helping a friend (OS Related)
 ZCZC W03 120 L09 Assignment in general
 ZCZC W03 10 L01 SCELE / Discord Related 
 ZCZC W03 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 100 L02 Attended class on Wednesday
+ZCZC W04 60 L05 Studying for SCELE Quiz
+ZCZC W04 30 L05 SCELE QUIZ
+ZCZC W04 50 L22 Trying linux scripting
+ZCZC W04 30 L05 Learning C
+ZCZC W04 90 L09 Assignment in general
+ZCZC W04 100 L02 Attended class on Monday
+ZCZC W04 20 L09 Assignment in general

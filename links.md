@@ -14,5 +14,6 @@ permalink: LINKS/
   This repository is very cool, though I didn't think I can finish all the projects here, it is still cool to see that I can learn C by applying it into real application. If you already have a decent programming knowledge (and a little bit of computer architecture ^^) it is a really good course to hone your skills! PROPS TO THE REPO CREATOR!
 * [Random Cybersecurity Issue Vid from one of my fav Youtuber](https://www.youtube.com/watch?v=ihtAijebU-M&pp=ygUSbG93IGxldmVsIGxlYXJuaW5n){:target="_blank"} ---
   Here he explains how electrical signals of RAM can be detected to read secret informations, the attack known as RAMBO ~.~. You should check the video yourself IMO, it's so cool.
-
+* [Basic C] (https://www.codecademy.com/catalog/language/c) ---
+  This is pretty cool ig.
 <hr>
