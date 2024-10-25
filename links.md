@@ -16,4 +16,5 @@ permalink: LINKS/
   Here he explains how electrical signals of RAM can be detected to read secret informations, the attack known as RAMBO ~.~. You should check the video yourself IMO, it's so cool.
 * [Basic C] (https://www.codecademy.com/catalog/language/c) ---
   This is pretty cool ig.
+* [Basic Web Server in C] (https://github.com/bloominstituteoftechnology/C-Web-Server) --- Basic web server in C.
 <hr>
