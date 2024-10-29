@@ -50,6 +50,7 @@ ZCZC W05 90 L05 Studying C
 ZCZC W05 50 L09 Assignment in general
 ZCZC W05 100 L02 Attended class on Monday
 ZCZC W06 100 L02 Attended class on Wednesday
+ZCZC W06 100 L02 Attended class on Monday
 ZCZC W06 120 L05 Building personal project with C
 ZCZC W06 10 L01 SCELE POP Quiz Related
 ZCZC W06 80 L09 SCELE POP Quiz Assignment
