@@ -18,3 +18,4 @@ permalink: LINKS/
   This is pretty cool ig.
 * [Basic Web Server in C] (https://github.com/bloominstituteoftechnology/C-Web-Server) --- Basic web server in C.
 <hr>
+* [Differences between Thread and Process] (https://www.javatpoint.com/process-vs-thread) --- Thread VS Process
