@@ -19,3 +19,4 @@ permalink: LINKS/
 * [Basic Web Server in C] (https://github.com/bloominstituteoftechnology/C-Web-Server) --- Basic web server in C.
 <hr>
 * [Differences between Thread and Process] (https://www.javatpoint.com/process-vs-thread) --- Thread VS Process
+* [Kernotex LFS playlist] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- Best LFS tutorial
