@@ -70,3 +70,6 @@ ZCZC W09 100 L02 Attended class on Monday
 ZCZC W09 100 L02 Attended class on Wednesday
 ZCZC W09 300 L09 LFS Assignment
 ZCZC W09 50 L09 SCELE Pop Quiz Assignment
+ZCZC W10 1200 L09 LFS Assignment
+ZCZC W10 100 L02 Attended class on Monday
+ZCZC W10 30 L05 Studying in general
